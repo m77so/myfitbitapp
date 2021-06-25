@@ -1,0 +1,22 @@
+{
+  "name": "myfitbitapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m77so/myfitbitapp.git"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/m77so/myfitbitapp/issues"
+  },
+  "homepage": "https://github.com/m77so/myfitbitapp#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
